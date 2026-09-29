@@ -7,6 +7,7 @@ function subtract(a, b) {
 }
 
 function multiply(a, b) {
+    // Multiplication
     return a * b;
 }
 
